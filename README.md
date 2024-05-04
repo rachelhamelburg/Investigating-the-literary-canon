@@ -1,4 +1,4 @@
-# Investigating Representation in BERTopic 
+# Investigating Literary Representation in BERTopic 
 
 American high school reading curricula often rely on a limited collection of texts, commonly known as "the classics." These texts are drawn from the Western Literary Canon, a curated set of "good" books that are deemed essential for everyone to read. However, the notion of an objective "standard" for literature has come under scrutiny, sparking debates about the potential consequences of exclusive authorship, biased representations, and their socio-cultural impacts. This project delves into these issues by employing BERTopic, a neural topic modeling framework, to analyze plot summaries of canonical works and uncover underlying themes, genres, and patterns.
 
